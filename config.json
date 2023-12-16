@@ -1,0 +1,21 @@
+{
+    "modules": [
+        "updated_scans",
+        "search_part",
+        "search_setting",
+        "report_menu",
+        "admin_detail_item",
+        "admin_manage_user",
+        "admin_detail_user",
+        "register_user"
+    ],
+    "module_directory_name": "module",
+    "experimental_mode": false,
+    "learning_mode": false,
+    "unfreezed": true,
+    "use_cubit": false,
+    "ignore_core_generator_for_directories": [
+        "lib/model",
+        "lib/models"
+    ]
+}
